@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.738ba19b.css",
+    "main.js": "/static/js/main.e839c91d.js",
+    "static/js/496.14bf7e15.chunk.js": "/static/js/496.14bf7e15.chunk.js",
+    "static/media/communication_instrument.jpg": "/static/media/communication_instrument.c2552e3343e842b0ece4.jpg",
+    "static/media/dog_tax.jpg": "/static/media/dog_tax.c5f4de706a4bc5608869.jpg",
+    "static/media/dancing_groot.gif": "/static/media/dancing_groot.0085740dfea32b327c20.gif",
+    "static/media/github_button.png": "/static/media/github_button.abb5df5cb6033db6a886.png",
+    "static/media/LeetCode_logo_black.png": "/static/media/LeetCode_logo_black.c79f333b12595d3eec8f.png",
+    "index.html": "/index.html",
+    "main.738ba19b.css.map": "/static/css/main.738ba19b.css.map",
+    "main.e839c91d.js.map": "/static/js/main.e839c91d.js.map",
+    "496.14bf7e15.chunk.js.map": "/static/js/496.14bf7e15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.738ba19b.css",
+    "static/js/main.e839c91d.js"
+  ]
+}
