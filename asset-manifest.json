@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.08d07dda.css",
-    "main.js": "/static/js/main.b9d1b4b6.js",
+    "main.js": "/static/js/main.cd0cfb41.js",
     "static/js/522.3236ce6d.chunk.js": "/static/js/522.3236ce6d.chunk.js",
     "static/media/communication_instrument.jpg": "/static/media/communication_instrument.c2552e3343e842b0ece4.jpg",
     "static/media/dancing_groot.gif": "/static/media/dancing_groot.0085740dfea32b327c20.gif",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.08d07dda.css",
-    "static/js/main.b9d1b4b6.js"
+    "static/js/main.cd0cfb41.js"
   ]
 }
